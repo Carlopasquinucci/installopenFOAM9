@@ -1,6 +1,13 @@
-# installopenFOAM9
-How to install openFOAM9
+# installopenFOAM
 
-1) Move the file on the home directory
-2) Open the terminal
-3) Write sh ./allRunOpenFOAM.sh 
+How to install openFOAM
+
+
+1) Open the terminal
+
+3) Write sh ./installOF9.sh for instal the openFOAM 9
+
+or
+
+2) Write sh ./installOF2106.sh for instal the openFOAM 2106
+
